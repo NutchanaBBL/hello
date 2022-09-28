@@ -1,6 +1,6 @@
 public class Hello(){
   public static void main(String[] args){
     system.out.print("hello world");
-    system.out.print("test connect jenkins111111");
+    system.out.print("test connect jenkins_final");
   }
 }
