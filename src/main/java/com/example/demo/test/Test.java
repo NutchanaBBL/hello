@@ -17,7 +17,7 @@ public class Test {
 			throw new ApplicationException("Exception!!!"); 
 		}	
 		System.out.println("aaa");
-		
+		System.out.println("bbbbbbbbbbb");
 	}
 	
 	
